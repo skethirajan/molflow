@@ -7,14 +7,14 @@
 ## Install from PyPI
 
 ```bash
-pip install package_name
+pip install molflow
 ```
 
 ## Install from Source
 
 ```bash
-git clone https://github.com/username/package_name.git
-cd package_name
+git clone https://github.com/skethirajan/molflow.git
+cd molflow
 pip install -e .
 ```
 

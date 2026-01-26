@@ -1,4 +1,4 @@
-# package_name
+# molflow
 
 Short package description.
 
@@ -11,20 +11,20 @@ Short package description.
 ## Installation
 
 ```bash
-pip install package_name
+pip install molflow
 ```
 
 ## Quick Start
 
 ```python
-import package_name
+import molflow
 
 # Your example code here
 ```
 
 ## Documentation
 
-For full documentation, visit the [documentation site](https://username.github.io/package_name/).
+For full documentation, visit the [documentation site](https://skethirajan.github.io/molflow/).
 
 ## License
 

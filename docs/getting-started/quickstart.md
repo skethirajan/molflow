@@ -1,16 +1,16 @@
 # Quick Start
 
-This guide will help you get started with package_name.
+This guide will help you get started with molflow.
 
 ## Basic Usage
 
 ```python
 from __future__ import annotations
 
-import package_name
+import molflow
 
 # Check version
-print(package_name.__version__)
+print(molflow.__version__)
 ```
 
 ## Next Steps
