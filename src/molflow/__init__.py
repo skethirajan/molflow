@@ -1,4 +1,4 @@
-"""molflow: Short package description."""
+"""Molflow: Short package description."""
 
 from __future__ import annotations
 
